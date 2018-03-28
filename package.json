@@ -1,0 +1,31 @@
+{
+  "name": "simple_node_project",
+  "version": "1.0.0",
+  "description": "A simple node js html app that practices server programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waiying/FirstNodeJSProject.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "multiplayer",
+    "game",
+    "server",
+    "programming"
+  ],
+  "author": "Angie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waiying/FirstNodeJSProject/issues"
+  },
+  "homepage": "https://github.com/waiying/FirstNodeJSProject#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.0.4"
+  }
+}
